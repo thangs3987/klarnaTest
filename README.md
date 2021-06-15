@@ -1,6 +1,6 @@
 # klarnaTest
 
-This project is developed in Java
+This project is developed in Java/maven/Junit
 
 This project will give a total amount of list of transactions with given conditions as per the exercise
 
