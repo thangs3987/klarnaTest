@@ -1,0 +1,32 @@
+[{
+  "id": "123",
+  "sourceAccount": "my_account",
+  "targetAccount": "coffee_shop",
+  "amount": "-100",
+  "category": "eating_out",
+  "time": "2019-03-12T12:34:00Z"
+},
+  {
+    "id": "333232",
+    "sourceAccount": "my_account",
+    "targetAccount": "coffee_shop",
+    "amount": "-700",
+    "category": "eating_out",
+    "time": "2020-03-12T12:34:00Z"
+  },
+  {
+    "id": "232323",
+    "sourceAccount": "my_account",
+    "targetAccount": "coffee_shop",
+    "amount": "-200",
+    "category": "eating_out",
+    "time": "2018-03-12T12:34:00Z"
+  },
+  {
+    "id": "323232",
+    "sourceAccount": "coffee_shop",
+    "targetAccount": "coffee_shop",
+    "amount": "3000",
+    "category": "eating_out",
+    "time": "2019-03-12T12:34:00Z"
+  }]
