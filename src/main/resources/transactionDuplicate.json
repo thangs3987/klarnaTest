@@ -1,0 +1,40 @@
+[{
+  "id": "1",
+  "sourceAccount": "my_account",
+  "targetAccount": "coffee_shop",
+  "amount": "-100",
+  "category": "f",
+  "time": "2019-03-12T12:34:02Z"
+},
+  {
+    "id": "1",
+    "sourceAccount": "my_account",
+    "targetAccount": "coffee_shop",
+    "amount": "-100",
+    "category": "e",
+    "time": "2019-03-12T12:34:01Z"
+  },
+  {
+    "id": "3",
+    "sourceAccount": "my_account",
+    "targetAccount": "coffee_shop",
+    "amount": "-100",
+    "category": "a",
+    "time": "2019-03-12T12:34:55Z"
+  },
+  {
+    "id": "1",
+    "sourceAccount": "my_account",
+    "targetAccount": "coffee_shop",
+    "amount": "-100",
+    "category": "b",
+    "time": "2019-03-12T12:34:30Z"
+  },
+  {
+    "id": "2",
+    "sourceAccount": "my_account",
+    "targetAccount": "coffee_shop",
+    "amount": "-100",
+    "category": "a",
+    "time": "2019-03-12T12:34:40Z"
+  }]
